@@ -1,6 +1,3 @@
-# Tenis-y-mas-productos-de-calzdo
-toda variedad de calzado
-
 <html>
 <head>
 <title>Da Silva Shoes</title>
